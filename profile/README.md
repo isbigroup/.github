@@ -4,7 +4,6 @@
 
 # ISBI - Insight Solutions Business Intelligence
 
-**Business Intelligence sob medida para PMEs brasileiras.**
 Implementação e acompanhamento contínuo. Sem caixa preta.
 
 </div>
