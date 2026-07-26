@@ -12,7 +12,7 @@ Implementação e acompanhamento contínuo. Sem caixa preta.
 
 ## Sobre
 
-Somos analistas, engenheiros e desenvolvedores de dados. Ajudamos pequenas e médias empresas brasileiras a saírem de planilhas soltas e relatórios manuais para uma base de dados sólida, com dashboards que respondem perguntas de negócio, não só bonitos de olhar.
+Somos analistas, engenheiros e desenvolvedores de dados. Ajudamos pequenas e médias empresas a saírem de planilhas soltas e relatórios manuais para uma base de dados sólida, com dashboards que respondem perguntas de negócio, não só bonitos de olhar.
 
 Trabalhamos com um modelo de serviço gerenciado: uma implementação inicial (modelagem, pipelines, dashboards) seguida de uma mensalidade que cobre manutenção, evolução e suporte. A ideia é que o cliente tenha um time de dados terceirizado, não um projeto que morre depois da entrega.
 
